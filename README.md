@@ -17,7 +17,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; -->
 <!--![C#](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;-->
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -30,6 +30,8 @@
 
 <a href="https://www.linkedin.com/in/loriana-boixadera-a0b2221a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/LBoixadera" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077E8.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/playlist/3B0onex79axCcii7TeCwJY?si=2ac5c96603f74ef8" target="_blank"><img src="https://img.shields.io/badge/Spotify-%230080K9.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
 <!---
 Lo-Boix-16/Lo-Boix-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
